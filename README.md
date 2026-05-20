@@ -25,7 +25,7 @@ Email: [shyamsridhardev@gmail.com](mailto:shyamsridhardev@gmail.com)
 ---
 
 # 📊 GitHub Stats
-# 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=shyam963&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=shyam963&theme=tokyonight&hide_border=true)
