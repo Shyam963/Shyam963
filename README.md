@@ -7,9 +7,9 @@ Interested in scalable systems, automation, and modern cloud technologies.
 
 # 🌐 Connect With Me
 
-Email: [LinkedIn](https://linkedin.com/in/shyamsri)
+LinkedIn: [LinkedIn](https://linkedin.com/in/shyamsri)
 
-Email: [shyamsridhardev@gmail.com](mailto:shyamsridhardev@gmail.com)
+Email:    [shyamsridhardev@gmail.com](mailto:shyamsridhardev@gmail.com)
 
 ---
 
