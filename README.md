@@ -12,6 +12,6 @@
 
 ## About Me
 
-I'm a Computer Science student focused on building practical AI applications.
+I'm a Information student focused on building practical AI applications.
 
 I work with Python, Machine Learning, Generative AI, and RAG systems, while also exploring backend development and Linux.
